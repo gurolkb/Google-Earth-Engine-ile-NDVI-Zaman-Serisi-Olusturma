@@ -10,4 +10,4 @@ Kodun kapsamı;
 5. Hesaplanan NDVI değerlerinin grafik haline getirilmesi.
 
 Örnek zaman serisi grafiği:
-![ee-chart](https://user-images.githubusercontent.com/129385033/229347950-205bd525-8612-42f6-97dc-068c982a1c96.png)
+![ee-chart](https://user-images.githubusercontent.com/129385033/229348026-8374e084-0e36-4e5a-87ce-77a39c0b990b.png)
